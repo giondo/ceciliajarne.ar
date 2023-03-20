@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Clases EET N 2
+description: Materias
 image:
 
 # Badge style
